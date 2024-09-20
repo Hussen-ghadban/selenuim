@@ -1,0 +1,20 @@
+{
+  "name": "selenium_js_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tiktok.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "chrome-remote-interface": "^0.33.2",
+    "chromedriver": "^128.0.3",
+    "faker": "^6.6.6",
+    "selenium-webdriver": "^4.24.0"
+  }
+}
